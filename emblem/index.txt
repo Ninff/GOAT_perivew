@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
-		<title>EMBLEM</title>
+		<title>UNIFORM</title>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="js/script.js"></script>
 		<link rel="stylesheet" href="css/style.css">
@@ -14,123 +14,123 @@
 				<a href="../index.html"><img src="images/goat_font.png" alt="logo"></a>
 				<nav>
 					<ul>
-						<li><a href="../uniform/index.html">UNIFORM</a></li>
-						<li><a class="mu1">EMBLEM</a></li>
+						<li><a class="mu1">UNIFORM</a></li>
+						<li><a href="../emblem/index.html">EMBLEM</a></li>
 						<li><a>REVIEW</a></li>
 					</ul>
 				</nav>
 			</div>
 		</header>
 		<main>
-			<p>EMBLEM</p>
-			<p>나만의 팀을 위한 특별한 엠블럼 </p>
+			<p>UNIFORM</p>
+			<p>나만의 유니폼 나만의 팀복을 경험하세요</p>
 				<section class="item1">
 					<div>
-						<img src="images/CENTUM.jpg">
-						<h1>CENTUM</h1>
+						<img src="images/rbw1.png">
+						<h1>레드&블랙 화이트 라인 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/GYM.jpg">
-						<h1>GYM</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/MUNMOO.jpg">
-						<h1>MUNMOO</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/WE.jpg">
-						<h1>WE . FC</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 				</section>
 					<section class="item2">
 					<div>
-						<img src="images/KSD.jpg">
-						<h1>KSD</h1>
+						<img src="images/rbw1.png">
+						<h1>레드&블랙 화이트 라인 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/AMIGO.jpg">
-						<h1>AMIGO</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/JAKKDANG.jpg">
-						<h1>JAKKDANG</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/KWAENAM.jpg">
-						<h1>KWAENAM</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 				</section>
 					<section class="item3">
 					<div>
-						<img src="images/PHOS.jpg">
-						<h1>PHOS</h1>
+						<img src="images/rbw1.png">
+						<h1>레드&블랙 화이트 라인 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/seoul.jpg">
-						<h1>SEOUL</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/INDONG.jpg">
-						<h1>INDONG</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/JANSIL.jpg">
-						<h1>JAMSIL . FC</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 				</section>
 					<section class="item4">
 					<div>
-						<img src="images/Joongang.jpg">
-						<h1>JOONGANG</h1>
+						<img src="images/rbw1.png">
+						<h1>레드&블랙 화이트 라인 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/MUGUNGHWA.jpg">
-						<h1>MUGUNGHWA</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/DOS.jpg">
-						<h1>DOGGYSTYLE</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/ROMA.jpg">
-						<h1>ROMA</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 				</section>
 					<section class="item5">
 					<div>
-						<img src="images/ALL.jpg">
-						<h1>ALL IN</h1>
+						<img src="images/rbw1.png">
+						<h1>레드&블랙 화이트 라인 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/CHRIS.jpg">
-						<h1>CHRIS</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/BST1.jpg">
-						<h1>BST . FC</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 					<div>
-						<img src="images/TMI.jpg">
-						<h1>T.M.I</h1>
+						<img src="images/bbl1.png">
+						<h1>블루&블랙 화이트 포인트</h1>
 						<a>자세히</a>
 					</div>
 				</section>
